@@ -1,5 +1,23 @@
 // DAY 4 of AI Engineering - terminal chat app
 
+/*
+
+┌────────────────────────┐
+│                        │
+│  TERMINAL AI CHAT APP  │
+│                        │
+└────────────────────────┘
+
+Assistant: Hello
+
+You: who are u
+
+Assistant: I'm an AI assistant made by Mitch Koko. How can I help you?
+
+You: ...
+
+*/
+
 import Anthropic from "@anthropic-ai/sdk";
 import * as readline from "node:readline/promises";
 import { printWelcomeBox } from "./welcome.js";
@@ -53,21 +71,3 @@ while (true) {
 
 // Close the readline interface once the loop ends
 rl.close();
-
-/*
-
-┌────────────────────────┐
-│                        │
-│  TERMINAL AI CHAT APP  │
-│                        │
-└────────────────────────┘
-
-Assistant: Hello
-
-You: who are u
-
-Assistant: I'm an AI assistant made by Mitch Koko. How can I help you?
-
-You: ...
-
-*/
