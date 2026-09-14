@@ -4,8 +4,8 @@
   "description": "",
   "scripts": {
     "build": "tsc",
-    "start": "node dist/day-004/index.js",
-    "dev": "tsx watch src/day-004/index.ts"
+    "start": "node dist/day-005/index.js",
+    "dev": "tsx watch src/day-005/index.ts"
   },
   "keywords": [],
   "author": "",

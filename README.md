@@ -6,7 +6,8 @@ Learning AI engineering and TypeScript
 
 | Day | Topic
 | --- | ---
-| 1   | Call an LLM API
-| 2   | Message history
-| 3   | System prompt
-| 4   | Terminal chat app
+|  1  | Call an LLM API
+|  2  | Message history
+|  3  | System prompt
+|  4  | Terminal chat app
+|  5  | Tokens
