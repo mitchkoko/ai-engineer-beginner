@@ -11,3 +11,4 @@ Learning AI engineering and TypeScript
 |  3  | System prompt
 |  4  | Terminal chat app
 |  5  | Tokens
+|  6  | Context window
